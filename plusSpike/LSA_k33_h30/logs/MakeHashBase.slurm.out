@@ -1,0 +1,398 @@
+Date: Thu Nov 9 10:57:54 CET 2017
+with step 1
+MakeHashVectors array size will be 0-71
+new MakeHashVectors SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/MakeHashVectors.slurm.job
+hashobject is created
+Thu Nov  9 10:57:55 2017 running /MakeHashVectors.slurm.job job via sbatch
+upload a vector for hash position 0
+cannot upload file: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/k9bgrCKCh717zdaJTyRJnbPOUom3yyO7.vec
+wait 3 s
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/w1r3YpuLP1MBbqFwtRxfS5JzkJw0o2yc.vec
+upload a vector for hash position 1
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/LukXX6FArN8IbcKSrA319jJKdEMPdXsG.vec
+upload a vector for hash position 2
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/05rlf4VRkX2OLBPBOr84IJtgyjkclE5p.vec
+upload a vector for hash position 3
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/n0SZfFQr4MdRISDAS7s306kx9xwYkJjk.vec
+upload a vector for hash position 4
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Mf5WPDwbVuespSJzPwqHZNnKWL6UoMQD.vec
+upload a vector for hash position 5
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/VA3m01yEKj1tUs0utY5bm8cXfMJ4DInK.vec
+upload a vector for hash position 6
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/SIzBNXjEkKQrZlpLkprXLBPzVgVner8C.vec
+upload a vector for hash position 7
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/nTjuQaZM4VtVgHBgwJu5WL1imCBGUEfc.vec
+upload a vector for hash position 8
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/mFRaa7DSINdwWAgEHZJmuYepeyznO6GT.vec
+upload a vector for hash position 9
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/0qHf4pr8a0sy8R1JkxIM3prY356Fk6K2.vec
+upload a vector for hash position 10
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/4VL4AArlL6dNOGv6ISwPyVhRjYwdJtVg.vec
+upload a vector for hash position 11
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/o6iMOlSOyy1YFYfF8yRxvXYJqxCS2NpT.vec
+upload a vector for hash position 12
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/zMbFMXyohWKdH99zMpuKLGkfDExJv9HN.vec
+upload a vector for hash position 13
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/xdu6IJnvaNacZOXFh5fWxKHIJqZ0Ytz8.vec
+upload a vector for hash position 14
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/mpvZTreLAb1CliphTmvbeQnY1eblANZf.vec
+upload a vector for hash position 15
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/dx7kkOAsOr0Lv9gf5nUY3pscHn1zAnNG.vec
+upload a vector for hash position 16
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Gtobyy2UGX8ghD4Z9kWC6B5Sb6BbALZU.vec
+upload a vector for hash position 17
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/pNLqxxTR0ip2vuR8bn32VHXa7ZMsVdxm.vec
+upload a vector for hash position 18
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/iyY1nvGx0HmLsDOjSREis14pViUnY1kU.vec
+upload a vector for hash position 19
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/sEEmBVD8XB0UhuLfaI2aGnfGts8ASir4.vec
+upload a vector for hash position 20
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/B1JPgQNxT9QZ1pjttv7yzZKrSXr2F0Ez.vec
+upload a vector for hash position 21
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ZW5t6EJfGfkOfH7LGC3fst9Xuw1q00Al.vec
+upload a vector for hash position 22
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/udupicVJzgBQPwfdwXuWsYgcRqHkKfVc.vec
+upload a vector for hash position 23
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Vl0VHvYbUNnm7FudIZWqWmqkZYWLStKN.vec
+upload a vector for hash position 24
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/3SBBEYGNjPYCGvNDe0261eaPtMMN95TQ.vec
+upload a vector for hash position 25
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/fTWBGCDsco2JOpwHed7zTn7YbBfDQhrC.vec
+upload a vector for hash position 26
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/kJVv5rmCrkYEcT6Lsd3sLiWR4BwFjM1r.vec
+upload a vector for hash position 27
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/4My5b72r2weelzba1DB1abCDtzcOsXO3.vec
+upload a vector for hash position 28
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/bmkLtKiU8uGen7AwKgDzY6gXnIU3WbWW.vec
+upload a vector for hash position 29
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/bxrGYB6FBp1Q2nsmOOZ1zEWiP9jsosra.vec
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/s8HoJCzEftEQRBIiy2EuMk9fmc6tKR0g.vec
+859.364206045
+iter 0 ---------------
+18 867.191961742 859.364206045
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/EpytPWuE1bdH9X1eGf3v9MdrXs7k9rTe.vec
+iter 0 ---------------
+17 870.098289265 867.191961742
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/wmcGjEGRCx0h0ivmXquaH3JmJL3L6x5v.vec
+iter 0 ---------------
+21 873.06407448 870.098289265
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/i5ZZjagn78sz3xTKHWokr6ACANYPJ5jp.vec
+iter 0 ---------------
+2 877.431007367 873.06407448
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/azFaNHoX3MYYDLJnJu0pJxdOIuo9QHfo.vec
+iter 0 ---------------
+14 882.236899852 877.431007367
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/37P8ge0tCSLurwF91iQklgr5dj1dXkdt.vec
+iter 0 ---------------
+30 882.236899852 882.236899852
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/1pPqKI7LxzgcuHzzzn2uhy3yEXqtOrWo.vec
+iter 1 ---------------
+22 884.84739098 882.236899852
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/qCQ0y0Qude46Nk93XmMwt5lUHocisdcR.vec
+iter 0 ---------------
+13 886.783120024 884.84739098
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/urjy57Xp5q2eecsA1spjloNAvW6lEaKi.vec
+iter 0 ---------------
+24 889.505689299 886.783120024
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/QDIOiSzKvTGbH0vXsph9jqxMaTwZFvMx.vec
+iter 0 ---------------
+28 889.81594591 889.505689299
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/oTMnJIj1yW3tMyutRe5yWPrsMOf7tScd.vec
+iter 0 ---------------
+28 890.406824502 889.81594591
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/r0u0YIDKVqjXxQriOH0bF0nAX6DjEy3W.vec
+iter 0 ---------------
+30 890.406824502 890.406824502
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/kxZQqwGmCJ0ByMIXaPzsuXSh4zha5UYf.vec
+iter 1 ---------------
+30 890.406824502 890.406824502
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/CLspMqlEr1PciiozUckjOWZiNDwbGL4n.vec
+iter 2 ---------------
+30 890.406824502 890.406824502
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/TXkgebnYNTIoCEUgXeDDJfXTAQJAnHJG.vec
+iter 3 ---------------
+28 891.649623356 890.406824502
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/rJuzirSi94LChYNcOBKZp6xs7IGYmP9h.vec
+iter 0 ---------------
+30 891.649623356 891.649623356
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/3hwgBdGSj2c1Kq7HJ7vwyAfduFw5I9l5.vec
+iter 1 ---------------
+30 891.649623356 891.649623356
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/iEW6Kjl2K0tRh4VhUTUACjWrvpR0XnPF.vec
+iter 2 ---------------
+23 892.717664415 891.649623356
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/apnnAzU8hmMYnLVPUfojK8AggrpHEGLq.vec
+iter 0 ---------------
+26 893.510255706 892.717664415
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Qyp8wASvnqcBLroGZGFYlu3kRk0aRVBe.vec
+iter 0 ---------------
+30 893.510255706 893.510255706
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/iH9RRaTfk5yyecuY8l9wqRInoobXSVQ8.vec
+iter 1 ---------------
+3 894.069210872 893.510255706
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/BEaBsbVTamldhgmL9uNa4O5oimA8p79u.vec
+iter 0 ---------------
+30 894.069210872 894.069210872
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/L2lOeq38eQ7RjG0jszUKMmh9EFExGLpN.vec
+iter 1 ---------------
+18 894.556183132 894.069210872
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ijRMxhw3Zfk4zqmNQElos3BUcieZWRil.vec
+iter 0 ---------------
+30 894.556183132 894.556183132
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/8HZhYNtyEwogk8obmxOQ7F2YHkSTlFV0.vec
+iter 1 ---------------
+12 894.755405846 894.556183132
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Gu4zyktNHAfrmP1AsFO8Kc0TzthbOyA7.vec
+iter 0 ---------------
+30 894.755405846 894.755405846
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/pGoYTjYL2rcZUwZ8Cgsi9qjIXNLAuUUJ.vec
+iter 1 ---------------
+6 895.682236337 894.755405846
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/k9bgrCKCh717zdaJTyRJnbPOUom3yyO7.vec
+iter 0 ---------------
+30 895.682236337 895.682236337
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/7MjDZk4m2xL004lXEiQFomy9ZYVhvelC.vec
+iter 1 ---------------
+30 895.682236337 895.682236337
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ZE6vxgZQkp5tA4MzWXJTkyPB8ksXHidi.vec
+iter 2 ---------------
+30 895.682236337 895.682236337
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/HQ71OznRCVDhto06Hx3wHCMNRKGB4YBt.vec
+iter 3 ---------------
+23 895.951683841 895.682236337
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/KyMHmZw98J9rxC5XIzYJ59bzpFMVs9bS.vec
+iter 0 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/L0Em5h9T5pQN3uMH2BdrjjlOz7BLZK1T.vec
+iter 1 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/z88AKlA7tmM6z5AL1EijCPRIZSyoEWIM.vec
+iter 2 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/120RyHocLEpHOqGIrlNe7DhTlVqur5eS.vec
+iter 3 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/5MhZ6zSiTRxEjNFCv1QZpsfTixod8PKA.vec
+iter 4 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Lns4MLxnoDtY07WxVl8e7z07FpH5wMaU.vec
+iter 5 ---------------
+30 895.951683841 895.951683841
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ZeoP62doDXnHhV8FUzEp9enmoCpUw9zw.vec
+iter 6 ---------------
+5 896.868774857 895.951683841
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Nr0QOduRMEO0Lux78PHDrlgzoRuw1hNO.vec
+iter 0 ---------------
+30 896.868774857 896.868774857
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/9wTNKoWX0WalXGq1LTonk45T7kHiWBuk.vec
+iter 1 ---------------
+30 896.868774857 896.868774857
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/VSqthlg8RvWWE7LrIsVbDbo2glL6CG0j.vec
+iter 2 ---------------
+30 896.868774857 896.868774857
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/tsLI1NJs2kbz9Q8txQlAqAQsj6SEQEOp.vec
+iter 3 ---------------
+30 896.868774857 896.868774857
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/9JxyhyFssgAZAPEXygLcGbYqevfg3aFF.vec
+iter 4 ---------------
+30 896.868774857 896.868774857
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/YZiaYt8B2kyZi9wlQEzN3g0vuAaXVIvU.vec
+iter 5 ---------------
+10 897.357104947 896.868774857
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/1YgbyuDz8baAcp9kKT8izakBA5HCcE5H.vec
+iter 0 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/jQs6equQyRTSGB1tAwULNLKMMSBjJGm3.vec
+iter 1 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/X627oLJFouhLShaGlMpWQIQYG9I1i2OV.vec
+iter 2 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/QFcQz31e3neoKnfjOr8ZXnaTIVWNsdx1.vec
+iter 3 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/tATAH5AZuuk1vknUcUPmG89GiMb7qPup.vec
+iter 4 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/4vvANaajhVwONvSGL7ZZSfUfJbQ2Y2Oz.vec
+iter 5 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/9s0mZiXLJsaG2kJ3PU05wMFvm7UoS52s.vec
+iter 6 ---------------
+30 897.357104947 897.357104947
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/45YJdb8itc51OapRJ3v77lKShk7qMIWR.vec
+iter 7 ---------------
+1 897.447118126 897.357104947
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/IWZ9UVCgWdwSiogGLOH5KTF9Bdrv92zI.vec
+iter 0 ---------------
+30 897.447118126 897.447118126
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/TaOGvJPWB4UFqGya2I2j26VzL91f29Z9.vec
+iter 1 ---------------
+30 897.447118126 897.447118126
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/5QHls6NGizeSVcBh5zgYdz2YqFaQz2Zt.vec
+iter 2 ---------------
+13 897.634682024 897.447118126
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/b3Mpgef8Qt3d5rx2j6Fae66dl8bsTikI.vec
+iter 0 ---------------
+30 897.634682024 897.634682024
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/a846HtYOmCiqpomGN9r1c3wUPkDKI6E7.vec
+iter 1 ---------------
+30 897.634682024 897.634682024
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/U0KYU3E4JOBU856WAqpBwdQNZcfa454r.vec
+iter 2 ---------------
+30 897.634682024 897.634682024
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/GgwdIkyjjl49wvufhJ0aEF7WFUpnLbA6.vec
+iter 3 ---------------
+30 897.634682024 897.634682024
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/bYnEw9LGaEwrV8LgywFXfTFisVyexNSm.vec
+iter 4 ---------------
+30 897.634682024 897.634682024
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/IMZtXcbRE4FnNcjFqN9gzEyDNUu3FZVb.vec
+iter 5 ---------------
+5 897.831159389 897.634682024
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/FSSRKH4wytCzo7aeFebEBO85JtnbeER9.vec
+iter 0 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/UfvideD78zmtJZd3C04nfmtOwHHYeh3k.vec
+iter 1 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/9oROGDUlUcfZgRZOPYUrELOsBTOPXxQ2.vec
+iter 2 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/vzItAoS2EdE4ODNZ7wJZXyiMOQhotGKX.vec
+iter 3 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/BO198aDh0FKSLRFr4VcKAYTUlEsn4mgd.vec
+iter 4 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/1MsnGE0jIKmRX87uWN2m8Z2ZqYMb0USE.vec
+iter 5 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/n9zWBG2QH3Laki9dVmfeoyKaLBNQPsFj.vec
+iter 6 ---------------
+30 897.831159389 897.831159389
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/PA6FmCHQSWBlLK1fzeoZgJxdYCAisUWU.vec
+iter 7 ---------------
+28 898.140754944 897.831159389
+-----------------new better vector-----------------
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/JmCCfGWy9I3poe9n2CeQbCHKJwQKQZVG.vec
+iter 0 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ViP9IYnld4Z39hEKRKs10saVZoU4SbBP.vec
+iter 1 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/mWuViKVZORhtOHXYVai7gzJ9qUwND3W6.vec
+iter 2 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/wSVQ8y7SwVgXvUfyGby3qSPzPIvNEk7E.vec
+iter 3 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/FFYvmSMRJplMS9KGfqAYcIkjpmzhHuMF.vec
+iter 4 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/wVF1lpv26cKu5IaTMpWep7gW40XmEFIq.vec
+iter 5 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/RYpZS8ZGRdeAzuep0WI7oe8DaOwvC2LS.vec
+iter 6 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/V4hPiZn8mzwqh0XU5uwNsuTxo5lRgyrS.vec
+iter 7 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/XBukHu4CljT5nDVLX8waUXgvP8Ntboac.vec
+iter 8 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/vQyci4Oo5AES5LPfDGuqI0unIsLfeR0z.vec
+iter 9 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/96kO0NULd2L9AHcWudrxnHrf37eg4CnP.vec
+iter 10 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/7P97vRtE8C2J74bkpqwp7qEKNhurocVM.vec
+iter 11 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Havb5jnn3VdLzN1JCdEXxWBtodtZpFtx.vec
+iter 12 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/iK0mU16D48YGz4Hj13DL20xkXLKsLWOz.vec
+iter 13 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/SVGnClt4ZzdGbItHwi12cTxEY6Sak9cy.vec
+iter 14 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/wYIxztj2p2OliRT4zkbr3DGnb4bnQ9hC.vec
+iter 15 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/LRuXY7d03N0kwTi2BDDL6geve26S1YFd.vec
+iter 16 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/oIjg6RQFDukCanM844DvxlnLp77nY5ry.vec
+iter 17 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/zndec5bBJpddwpRewt4ACn9CGipoTnlP.vec
+iter 18 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/9KKuJ7mb0k83szWNpdAYhgYTjz4Uccz1.vec
+iter 19 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/mAJpoeGNoa1S5vXqHhZaTD5oVR1GCDda.vec
+iter 20 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/nEy4nQFLjALiOWov94X9uFXO0MkmsKjV.vec
+iter 21 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/uJdDohP1MB3PjEDEB2xDFSSZv5x49Qr0.vec
+iter 22 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/gACC4Sn68haCwJoT67bTq3zqL5lJgl52.vec
+iter 23 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/eoZULw14JKdGcV8WBMF3LUxJroRrWNxX.vec
+iter 24 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/ldrJm1tPs5Hk10MvF3EjCZ5YR7VdEvQf.vec
+iter 25 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/iVderQbhE2m36H9L8R6gd2DblqsmjyEz.vec
+iter 26 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/Pjzt4hCsAFtDpMwSniQhTRqtJSCPxUtv.vec
+iter 27 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/2vQHxjsSnpd6czlGBBHiIU6LQbn2Obwx.vec
+iter 28 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/1UGA7ft2PuItEBJ2IQknlUeRdBSdGGF7.vec
+iter 29 ---------------
+30 898.140754944 898.140754944
+file is uploaded: /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/tmp/vec/d5AF89PgyUGUhUIETAv0AWq51QUqSvkQ.vec
+30 898.140754944 898.140754944
+Thu Nov  9 10:58:02 2017 /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/MakeHashVectors.slurm.job job is running, wait 3 s
+wheel is created
+wheel is saved
+Date: Thu Nov 9 10:58:05 CET 2017
+Total time:  .003 hours

@@ -1,0 +1,153 @@
+Date: Thu Nov 9 10:57:24 CET 2017
+new SetupProject SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/SetupProject.slurm.job
+new MakeHashBase SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/MakeHashBase.slurm.job
+with step 3
+HashReads array size will be 0-71
+new HashReads SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/HashReads.slurm.job
+with step 3
+CountHashFiles array size will be 0-71
+new CountHashFiles SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/CountHashFiles.slurm.job
+with step 1
+CountHashSamples array size will be 0-17
+new CountHashSamples SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/CountHashSamples.slurm.job
+new GlobalWeights SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/GlobalWeights.slurm.job
+with step 3
+CompressHashes array size will be 0-71
+new CompressHashes SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/CompressHashes.slurm.job
+with step 1
+CompressHists array size will be 0-17
+new CompressHists SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/CompressHists.slurm.job
+with step 1
+NormalizeCorpus array size will be 0-17
+new NormalizeCorpus SLURM job was successfully created in file:
+/env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/scripts/NormalizeCorpus.slurm.job
+Thu Nov  9 10:57:25 2017 genoscope_Spike - SetupProject
+Thu Nov  9 10:57:30 2017 running /SetupProject.slurm.job job via sbatch
+Thu Nov  9 10:57:30 2017 SetupProject job is running, wait 3 s
+Thu Nov  9 10:57:33 2017 SetupProject job is running, wait 3 s
+Thu Nov  9 10:57:36 2017 SetupProject job is finished
+Thu Nov  9 10:57:36 2017 SetupProject log files were created
+Thu Nov  9 10:57:36 2017 genoscope_Spike - MakeHashBase
+Thu Nov  9 10:57:40 2017 running /MakeHashBase.slurm.job job via sbatch
+Thu Nov  9 10:57:40 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:43 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:46 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:49 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:52 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:55 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:57:58 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:58:01 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:58:04 2017 MakeHashBase job is running, wait 3 s
+Thu Nov  9 10:58:08 2017 MakeHashBase job is finished
+Thu Nov  9 10:58:08 2017 MakeHashBase log files were created
+Thu Nov  9 10:58:08 2017 genoscope_Spike - HashReads
+Thu Nov  9 10:58:11 2017 running /HashReads.slurm.job job via sbatch
+Thu Nov  9 10:58:12 2017 HashReads job is running, wait 3 s
+Thu Nov  9 10:58:15 2017 HashReads job is running, wait 3 s
+Thu Nov  9 10:58:18 2017 HashReads job is running, wait 3 s
+Thu Nov  9 10:58:21 2017 HashReads job is finished
+Thu Nov  9 10:58:21 2017 HashReads log files were created
+Thu Nov  9 10:58:21 2017 genoscope_Spike - CountHashFiles
+Thu Nov  9 10:58:24 2017 running /CountHashFiles.slurm.job job via sbatch
+Thu Nov  9 10:58:25 2017 CountHashFiles job is running, wait 3 s
+Thu Nov  9 10:58:28 2017 CountHashFiles job is running, wait 3 s
+Thu Nov  9 10:58:31 2017 CountHashFiles job is finished
+Thu Nov  9 10:58:31 2017 CountHashFiles log files were created
+Thu Nov  9 10:58:31 2017 genoscope_Spike - CountHashSamples
+Thu Nov  9 10:58:34 2017 running /CountHashSamples.slurm.job job via sbatch
+Thu Nov  9 10:58:35 2017 CountHashSamples job is running, wait 3 s
+Thu Nov  9 10:58:38 2017 CountHashSamples job is running, wait 3 s
+Thu Nov  9 10:58:41 2017 CountHashSamples job is finished
+Thu Nov  9 10:58:41 2017 CountHashSamples log files were created
+Thu Nov  9 10:58:41 2017 genoscope_Spike - GlobalWeights
+Thu Nov  9 10:58:44 2017 running /GlobalWeights.slurm.job job via sbatch
+Thu Nov  9 10:58:45 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:58:48 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:58:51 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:58:54 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:58:57 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:00 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:03 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:06 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:09 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:12 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:15 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:18 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:21 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:24 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:27 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:30 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:34 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:37 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:40 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:43 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:46 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:49 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:52 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:55 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 10:59:58 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:01 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:04 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:07 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:10 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:13 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:17 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:20 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:23 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:26 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:29 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:32 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:35 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:38 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:41 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:44 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:47 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:50 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:53 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:56 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:00:59 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:01:03 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:01:06 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:01:09 2017 GlobalWeights job is running, wait 3 s
+Thu Nov  9 11:01:12 2017 GlobalWeights job is finished
+Thu Nov  9 11:01:12 2017 GlobalWeights log files were created
+Thu Nov  9 11:01:12 2017 genoscope_Spike - CompressHashes
+Thu Nov  9 11:01:16 2017 running /CompressHashes.slurm.job job via sbatch
+Thu Nov  9 11:01:16 2017 CompressHashes job is running, wait 3 s
+Thu Nov  9 11:01:19 2017 CompressHashes job is running, wait 3 s
+Thu Nov  9 11:01:22 2017 CompressHashes job is running, wait 3 s
+Thu Nov  9 11:01:25 2017 CompressHashes job is running, wait 3 s
+Thu Nov  9 11:01:28 2017 CompressHashes job is running, wait 3 s
+Thu Nov  9 11:01:31 2017 CompressHashes job is finished
+Thu Nov  9 11:01:31 2017 CompressHashes log files were created
+Thu Nov  9 11:01:31 2017 genoscope_Spike - CompressHists
+Thu Nov  9 11:01:35 2017 running /CompressHists.slurm.job job via sbatch
+Thu Nov  9 11:01:35 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:38 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:41 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:45 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:48 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:51 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:54 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:01:57 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:02:00 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:02:03 2017 CompressHists job is running, wait 3 s
+Thu Nov  9 11:02:06 2017 CompressHists job is finished
+Thu Nov  9 11:02:06 2017 CompressHists log files were created
+Thu Nov  9 11:02:06 2017 genoscope_Spike - NormalizeCorpus
+Thu Nov  9 11:02:10 2017 running /NormalizeCorpus.slurm.job job via sbatch
+Thu Nov  9 11:02:10 2017 NormalizeCorpus job is running, wait 3 s
+Thu Nov  9 11:02:13 2017 NormalizeCorpus job is running, wait 3 s
+Thu Nov  9 11:02:16 2017 NormalizeCorpus job is finished
+Thu Nov  9 11:02:16 2017 NormalizeCorpus log files were created
+Thu Nov  9 11:02:16 2017 Master script is finished, check for results in /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/
+Date: Thu Nov 9 11:02:16 CET 2017
+Total time:  .081 hours

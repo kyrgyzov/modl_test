@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH -p small
+#SBATCH --job-name=MakeHashBase
+#SBATCH -o /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30//logs//MakeHashBase.slurm.out
+#SBATCH -e /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30//logs//MakeHashBase.slurm.err
+echo Date: `date`
+t1=`date +%s`
+python /env/cns/proj/ADAM/BWG/LSA/LatentStrainAnalysis//LSA/make_hash_base.py -p /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/
+RES=$?
+if [ $RES != 0 ]
+then
+echo 'JOB FAILURE: '$RES
+echo 'SLURM_ARRAY_TASK_ID: '${SLURM_ARRAY_TASK_ID}
+echo 'ON MACHINE: '$(uname -n)
+fi
+echo Date: `date`
+t2=`date +%s`
+tdiff=`echo 'scale=3;('$t2'-'$t1')/3600' | bc`
+echo 'Total time:  '$tdiff' hours'
+

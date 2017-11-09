@@ -1,0 +1,21 @@
+#!/bin/bash
+#SBATCH -p small
+#SBATCH --job-name=CompressHashes
+#SBATCH -o /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30//logs//CompressHashes.slurm.out
+#SBATCH -e /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30//logs//CompressHashes.slurm.err
+#SBATCH --array=0-71
+echo Date: `date`
+t1=`date +%s`
+python /env/cns/proj/ADAM/BWG/LSA/LatentStrainAnalysis//LSA/compress_hashes.py -r ${SLURM_ARRAY_TASK_ID} -p /env/cns/bigtmp1/okyrgyzo/plusSpike/LSA_k33_h30/
+RES=$?
+if [ $RES != 0 ]
+then
+echo 'JOB FAILURE: '$RES
+echo 'SLURM_ARRAY_TASK_ID: '${SLURM_ARRAY_TASK_ID}
+echo 'ON MACHINE: '$(uname -n)
+fi
+echo Date: `date`
+t2=`date +%s`
+tdiff=`echo 'scale=3;('$t2'-'$t1')/3600' | bc`
+echo 'Total time:  '$tdiff' hours'
+
